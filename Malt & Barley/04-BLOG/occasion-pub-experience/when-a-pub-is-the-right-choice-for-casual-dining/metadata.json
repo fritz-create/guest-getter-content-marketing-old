@@ -1,0 +1,38 @@
+{
+  "slug": "when-a-pub-is-the-right-choice-for-casual-dining",
+  "title": "When a Pub Is the Right Choice for Casual Dining",
+  "cluster": "occasion-pub-experience",
+  "tier": "",
+  "intent_fingerprint": "Diner considering whether a pub fits a casual meal occasion - consideration stage",
+  "keyword_theme": "",
+  "target_keyword": "pub for casual dining",
+  "secondary_keywords": [
+    "casual dining Kitchener",
+    "pub food Kitchener",
+    "casual restaurant Kitchener",
+    "pub restaurant Kitchener",
+    "restaurants Williamsburg Kitchener",
+    "group dinner Kitchener"
+  ],
+  "seo_title": "Pub for Casual Dining in Kitchener | Malt & Barley",
+  "seo_description": "Looking for casual dining in Kitchener? See when a neighbourhood pub fits dinner, drinks, family meals, group plans, and weeknight food in Williamsburg.",
+  "audience_segment": "Kitchener-Area Pub Seeker",
+  "funnel_stage": "consideration",
+  "word_count_target": "1500-2000",
+  "internal_links_out": [
+    "https://maltandbarley.ca/posts/94794/good-beer-scratch-food-and-a-room-worth-coming-back-to"
+  ],
+  "internal_links_in": [],
+  "gbp_derivatives": [
+    "gbp-casual-dining-01",
+    "gbp-casual-dining-02",
+    "gbp-casual-dining-03"
+  ],
+  "publish_date": "[NEEDS CONFIRMATION]",
+  "last_updated": "2026-04-27",
+  "status": "draft",
+  "ai_citation_score": 88,
+  "author": "",
+  "live_url": "",
+  "notes": "SEO/GEO rewrite completed on 2026-04-27 using local Claude blog-write, blog-rewrite, blog-geo, blog-schema, and blog-seo-check standards. Semrush data not provided yet; keyword list is a suggested query set only. Draft includes three GBP extraction drafts below the blog body. Canonical URL and cover image still need confirmation before final schema and publish."
+}

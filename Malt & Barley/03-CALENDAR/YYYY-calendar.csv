@@ -1,0 +1,2 @@
+publish_date,post_slug,cluster,tier,content_type,author,status,live_url,notes
+YYYY-MM-DD,[from backlog.csv],[cluster name],[1/2/3],[blog/gbp],[name],[scheduled/published],[https:// when live],[notes]

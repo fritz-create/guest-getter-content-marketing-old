@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(update-config)",
+      "Bash(mkdir -p \"C:/Users/fgcon/Documents/GG - Content Marketing/CONTENT MARKETING TEMPLATE/00-START-HERE\")",
+      "Bash(mkdir -p \"C:/Users/fgcon/Documents/GG - Content Marketing/CONTENT MARKETING TEMPLATE/01-BRAND\")",
+      "Bash(mkdir -p \"C:/Users/fgcon/Documents/GG - Content Marketing/CONTENT MARKETING TEMPLATE/02-TOPICAL-MAP\")",
+      "Bash(mkdir -p \"C:/Users/fgcon/Documents/GG - Content Marketing/CONTENT MARKETING TEMPLATE/03-CALENDAR\")",
+      "Bash(mkdir -p \"C:/Users/fgcon/Documents/GG - Content Marketing/CONTENT MARKETING TEMPLATE/04-BLOG\")",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}

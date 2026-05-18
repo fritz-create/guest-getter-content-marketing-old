@@ -1,0 +1,2 @@
+offering_name,category,seasonal,seasonal_months,year_round,content_priority,search_intent,available_dine_in,available_takeout,available_delivery,notes
+[Item Name],[food/drink/experience/service],[yes/no],[months if seasonal],[yes/no],[high/medium/low],[transactional/informational/navigational],[yes/no],[yes/no],[yes/no],[any constraints]

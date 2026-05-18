@@ -1,0 +1,2 @@
+publish_date,post_slug,source_blog_slug,angle_type,angle_code,word_count,cta_type,link_included,link_destination,status,notes
+YYYY-MM-DD,[gbp-post-slug],[source-blog-slug],[angle description],[A/B/C/D/E/F],[word count],[soft/direct/question],[yes/no],[url or slug],[scheduled/published],[notes]

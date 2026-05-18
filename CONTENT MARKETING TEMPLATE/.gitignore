@@ -1,0 +1,11 @@
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+
+# Claude local permissions can contain machine-specific absolute paths.
+.claude/settings.local.json
+
+# Temporary exports and scratch files
+*.tmp
+*.bak
+~$*

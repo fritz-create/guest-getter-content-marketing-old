@@ -1,0 +1,2 @@
+pillar,topic,tier,primary_kw,selected_working_title,intent_fingerprint,revenue_proximity,competitive_gap,pillar_importance,priority_score,seasonal_flag,seasonal_window,scheduled_date,status,live_url,notes
+[from content-pillars.csv],[from topical-map.csv],[1/2/3],[primary keyword if known],[strongest of 3 working titles],[from topical-map.csv],[1-5],[1-5],[1-5],[sum /15],[yes/no],[month range if seasonal],[YYYY-MM-DD or blank],[backlog/scheduled/in-progress/published/dropped],[https://],[notes]
